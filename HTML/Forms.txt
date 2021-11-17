@@ -1,0 +1,20 @@
+<html>
+<head><title> <h2>FORM</h2></title>
+</head>
+<body>
+<form>
+<h3>
+<label for='emp'> Employee ID</label>
+<input type='text' id='emp' name='emp> <br>
+
+<label for='emp'> Employee ID</label>
+<input type='text' id='emp' name='emp> <br>
+
+<label for='emp'> Employee ID</label>
+<input type='text' id='emp' name='emp> <br>
+
+<label for='emp'> Employee ID</label>
+<input type='text' id='emp' name='emp> <br>
+
+<label for='emp'> Employee ID</label>
+<input type='text' id='emp' name='emp> <br>

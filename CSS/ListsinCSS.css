@@ -1,0 +1,65 @@
+
+<!doctype html>
+<html>
+<head><title> <h2>List</h2></title>
+<link rel='stylesheet' type='test/css' href='form.css'>
+
+
+<style>
+
+h2 {color:red;}
+
+ul.a{
+   color:blue; text-align:left;}
+
+dl.b {
+   color:green;}
+ol.c {
+   color:yellow;}
+
+</style>
+
+
+</head>
+<body>
+<h2> Unordered List - List of Flowers</h2>
+<ul class='a'>
+<ul type ='square'>
+<li> Rose</li>
+<li> Jasmine </li>
+<li> Lily </li>
+<li> Lotus </li>
+<li> Sunflower </li>
+<li> Marigold </li>
+<li> Hibiscus</li>
+</ul>
+
+
+<h2> Description List - List of fruits</h2>
+<dl class='b'>
+<dl>
+<dt>Apple</dt>
+<dd> - an apple a day keeps the doctor away</dd>
+
+<dt>Orange</dt>
+<dd> - A highly nutritious citrus fruit>/dd>
+
+<dt>Banana</dt>
+<dd>- most commonly consumed fruit</dd>
+</dl>
+
+
+
+<h2> Ordered List - mobiles</h2>
+<ol class='c'>
+<ol type ='1'>
+<li> Vivo</li>
+<li> Oppo </li>
+<li> Realme </li>
+<li>Redmi </li>
+<li> One Plus</li>
+
+
+
+</body>
+</html>

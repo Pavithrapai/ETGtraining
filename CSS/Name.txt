@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> CSS <title>
+<style> h1, h2 {color:blue;}
+        #P{color:blue:
+           font-size:24px:}
+        p.p2{color:red;
+              font-size:24px;
+             test-align:right
+
+
+
+------------------------This is wrong check the SS in Lenovo----------------------------
